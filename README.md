@@ -26,9 +26,11 @@ Note: Google Drive may show a virus scan warning for APK/AAB files. This is stan
 ---
 
 📖 About the App
+
 This is a basic Tic-Tac-Toe game I built in just 10 minutes when I was bored, purely as a fun and simple learning project. It helped me dive into Android development and explore app publishing with the help of AI.
 
-**This app is intended for educational purposes and as a way to practice app development skills. It’s not intended to be a complex or polished app—just a fun experiment!******
+
+This app is intended for educational purposes and as a way to practice app development skills. It’s not intended to be a complex or polished app—just a fun experiment!
 ---
 
 ## 💡 Contributing
