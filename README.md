@@ -21,9 +21,14 @@ You can download and install the game using the links below:
 - 🔹 [Download APK](https://drive.google.com/file/d/16yif1U5wYPUUW9yx84GUpds9PTTkIoiG/view?usp=sharing)
 - 🔸 [Download AAB](https://drive.google.com/file/d/1mRXkRsCsoFo7KlhmW5CXDduU7gJ5up0W/view?usp=sharing)
 
+Note: Google Drive may show a virus scan warning for APK/AAB files. This is standard for executable files and safe to ignore if you trust the source.
 
 ---
 
+📖 About the App
+This is a basic Tic-Tac-Toe game I built in just 10 minutes when I was bored, purely as a fun and simple learning project. It helped me dive into Android development and explore app publishing with the help of AI.
+
+This app is intended for educational purposes and as a way to practice app development skills. It’s not intended to be a complex or polished app—just a fun experiment!
 ---
 
 ## 💡 Contributing
